@@ -4,9 +4,9 @@ Assignment 1 for dig 3716C
 
 Write a simple program that contains three parts. 
 
-Ask the user to input a String;
-Convert the String to “ROBOT Language”;
-Write the String to the console window. 
+1)Ask the user to input a String;
+2)Convert the String to “ROBOT Language”;
+3)Write the String to the console window. 
 The program will repeat until the user indicates that they want to exit.
 
 Specifications:
