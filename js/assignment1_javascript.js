@@ -19,6 +19,9 @@ do {
 
             case "1":
             var case1String = prompt("enter your name");
+                if (case1String === null){
+                    alert("You need to enter something.");
+                }
             robotLanguage(case1String);
             break;
 
